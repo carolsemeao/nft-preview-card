@@ -27,9 +27,8 @@ Users should be able to:
 
 ### Screenshots
 
-![nft-card-mobile](https://user-images.githubusercontent.com/82804218/150775841-7d0e69ed-804d-4e2a-b8b5-4bf0e56a8ed0.JPG)
-
-![nft-card-desktop](https://user-images.githubusercontent.com/82804218/150775856-702a971d-d49d-48e6-b399-8d0f50cd0c99.JPG)
+![Mobile version](https://user-images.githubusercontent.com/82804218/150790760-ba31c447-3595-4cd1-bbcb-af6a918f8dd8.JPG)
+![Desktop version](https://user-images.githubusercontent.com/82804218/150790128-27957be1-7847-4536-91e3-21b3d1c10d1e.png)
 
 ### Links
 
