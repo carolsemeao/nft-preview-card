@@ -105,3 +105,4 @@ This is my code:
 ## Acknowledgments
 
 - [Quỳnh Giao](https://www.frontendmentor.io/profile/giaonnq1401) - Their provided code and the help in the comment section helped me out so much with making the eye icon appear in full opacity while hovering over the NFT image
+- [Tymur Renhach](https://www.frontendmentor.io/profile/tymren608) - Their comment on my solution really helped me out with making my code easier to read. Thank you so much for the advise
