@@ -53,6 +53,7 @@ p{
 	display: flex;
 	align-items: center;
 	overflow: hidden;
+    transition: 0.3s;
 }
 
 .card-img img{
@@ -94,9 +95,13 @@ p{
 
 .nft-description a{
     color: var(--white);
-    font-size: 1.5rem;
-    font-weight:600;
     text-decoration: none;
+    transition: 0.3s;
+}
+
+.nft-description a h1{
+    font-size: 1.5rem;
+    font-weight: 600;
 }
 
 .nft-description a:hover, .nft-description a:active{
@@ -149,6 +154,7 @@ p{
 .creator-name{
     color: var(--white);
     text-decoration: none;
+    transition: 0.3s;
 }
 
 .creator-name:hover, .creator-name:active{
@@ -178,7 +184,7 @@ p{
         font-size: 1rem;
     }
 
-    .nft-description a{
+    .nft-description a h1{
         font-size: 1.375rem;
     }
 }
