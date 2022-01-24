@@ -33,6 +33,20 @@ p{
     font-weight: 300;
 }
 
+a {
+    color: var(--white);
+    text-decoration: none;
+    transition: all 0.3s ease-in-out;
+}
+
+img{
+    max-width:100%;
+}
+
+a:hover, a:active {
+    color: var(--secondary-color)
+}
+
 .card, .nft-info, .nft-creator, .days-left, .nft-worth{
     display: flex;
 }
@@ -52,12 +66,9 @@ p{
     position: relative;
 	display: flex;
 	align-items: center;
+    border-radius:0.4rem;
 	overflow: hidden;
     transition: 0.3s;
-}
-
-.card-img img{
-    border-radius: 0.4rem;
 }
 
 .card-img #view{
@@ -73,7 +84,7 @@ p{
 .card-img:hover, .card-img:active{
     cursor: pointer;
     background-color: var(--secondary-color);
-    border-radius: 0.4rem;
+    overflow: hidden;
 }
 
 .card-img:hover #view{
@@ -84,11 +95,6 @@ p{
     opacity: 0.5;
 }
 
-#nft-pic{
-    border-radius:0.4rem;
-    max-width: 100%;
-}
-
 .nft-description{
     padding: 1.3rem 0;
 }
@@ -96,15 +102,15 @@ p{
 .nft-description a{
     color: var(--white);
     text-decoration: none;
-    transition: 0.3s;
 }
 
 .nft-description a h1{
     font-size: 1.5rem;
     font-weight: 600;
+    transition: 0.3s;
 }
 
-.nft-description a:hover, .nft-description a:active{
+.nft-description a h1:hover, .nft-description a h1:active{
     color: var(--secondary-color);
 }
 
@@ -164,6 +170,17 @@ p{
 .attribution{
     position: fixed;
     bottom: 0;
+    color: var(--primary-color);
+}
+
+.attribution a{
+    transition: 0.3s;
+    text-decoration: none;
+    color: var(--white);
+}
+
+.attribution a:hover{
+    color: var(--secondary-color);
 }
 
 /* mobile version */
