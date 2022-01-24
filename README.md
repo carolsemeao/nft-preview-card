@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-8UAgHSfqN)
+- Live Site URL: [NFT Preview Site](https://carolsemeao.github.io/nft-preview-card/)
 
 ## My process
 
@@ -98,7 +98,7 @@ This is my code:
 
 ## Author
 
-- Website - [NFT Preview Site](https://www.your-site.com)
+- Website - [NFT Preview Site](https://carolsemeao.github.io/nft-preview-card/)
 - Frontend Mentor - [@carolsemeao](https://www.frontendmentor.io/profile/carolsemeao)
 - Twitter - [@twiddyCodes](https://www.twitter.com/twiddyCodes)
 
